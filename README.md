@@ -1,5 +1,8 @@
 # Network Implementation in Cisco Packet Tracer
 
+You can find the design of this network here:
+https://github.com/dkay7223/Network-Design/blob/main/Solution.pdf
+
 ## I. Introduction
 
 This project aims to implement the designed network from Assignment 1 in Cisco Packet Tracer. The network includes DHCP, DNS, a web server (www.name1name2.com), and functional VLANs between different departments.
